@@ -176,7 +176,7 @@ It does not provide financial advice. Always do your own research before making 
 ---
 
 ## 👨‍💻 Author
-Sanket Parjane  
+Gayatri Jagtap
 
 This project demonstrates practical implementation of multi-agent AI systems applied to financial data analysis, combining LLMs with real-time market insights.
 
